@@ -3,7 +3,7 @@
 ___
 ## Data Science Projects:
 
-### **[American Express Credit card default prediction](https://www.kaggle.com/code/mohamedahmedx2/amex-clear-concise-eda-xgboost):**
+### **[American Express Credit card default (churn) prediction](https://www.kaggle.com/code/mohamedahmedx2/amex-clear-concise-eda-xgboost):**
 - Credit default prediction is central to managing risk in a consumer lending business. Credit default prediction allows lenders to optimize lending decisions, which leads to a better customer experience and sound business economics. Current models exist to help manage risk. But it's possible to create better models that can outperform those currently in use.
  - **Skills:** *EDA, Financial Statistics, churn rate, Data Visualization, Decision Tree models, Feature Engineering, XGBoost*
 
