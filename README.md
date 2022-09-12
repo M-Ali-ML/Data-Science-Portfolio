@@ -3,11 +3,11 @@
 ___
 ## Data Science Projects:
 
-### **[American Express Credit card default (churn) prediction](https://www.kaggle.com/code/mohamedahmedx2/amex-clear-concise-eda-xgboost):**
+### **[American Express Credit Card Default (Churn) Prediction](https://www.kaggle.com/code/mohamedahmedx2/amex-clear-concise-eda-xgboost):**
 - Credit default prediction is central to managing risk in a consumer lending business. Credit default prediction allows lenders to optimize lending decisions, which leads to a better customer experience and sound business economics. Current models exist to help manage risk. But it's possible to create better models that can outperform those currently in use.
  - **Skills:** *EDA, Financial Statistics, churn rate, Data Visualization, Decision Tree models, Feature Engineering, XGBoost*
 
-### **[Segmentation of Jaws from CT scan images](https://www.kaggle.com/code/mohamedahmedx2/3d-jaws-segmentation-dicom-files-ai-in-medince?scriptVersionId=91454881):**
+### **[Segmentation of Jaws from CT Scan Images](https://www.kaggle.com/code/mohamedahmedx2/3d-jaws-segmentation-dicom-files-ai-in-medince?scriptVersionId=91454881):**
 - CT scan images help doctors and specialist determain the best course of action to take considering patient heath. Convolutional neural network that specalize in segmentation can help reduce the human error and aid doctors in their observation. Segmentation of jaws into upper and lower partition is put togather in this project using state of the art deep learning techniques.
  - **Skills:** *Medical segmentation, U-net architecture, PyTorch, augmentation techniques, 3D Computer vision, deep learning*
 
