@@ -20,5 +20,5 @@ ___
  - **Skills:** *Computer Vision, AI in Healthcare, TensorFlow, Binary Classification, stratifiedkfold, efficientnet*
 
 ### **[Neural Style Transfer](https://www.kaggle.com/code/mohamedahmedx2/using-ai-to-create-art-neural-style-transfer):**
-- NST was first introduced in 2015 [paper](https://arxiv.org/abs/1508.06576) it took advantage of how convolution neural network works, The system uses neural representations to separate and recombine content and style of arbitrary images. In simple words, it transfer the style from one image to another.
+- NST was first introduced in 2015 [paper](https://arxiv.org/abs/1508.06576) it took advantage of how convolution neural network works, The system uses neural representations to separate and recombine content and style of arbitrary images. In simple words, it transfer the style from one image to another using the foundation of neural network loss optimization techniques.
  - **Skills:** *Neural networks, optimization techniques, machine learning algorithms, image manipulation*
