@@ -8,7 +8,7 @@ ___
  - **Skills:** *EDA, Financial Statistics, churn rate, Data Visualization, Decision Tree models, Feature Engineering, XGBoost*
 
 ### **[Segmentation of Jaws from CT Scan Images](https://www.kaggle.com/code/mohamedahmedx2/3d-jaws-segmentation-dicom-files-ai-in-medince?scriptVersionId=91454881):**
-- CT scan images help doctors and specialist determain the best course of action to take considering patient heath. Convolutional neural network that specalize in segmentation can help reduce the human error and aid doctors in their observation. Segmentation of jaws into upper and lower partition is put togather in this project using state of the art deep learning techniques.
+- CT scan images help doctors and specialist determine the best course of action to take considering patient heath. Convolutional neural network that specalize in segmentation can help reduce the human error and aid doctors in their observation. Segmentation of jaws into upper and lower partition is put togather in this project using state of the art deep learning techniques.
  - **Skills:** *Medical segmentation, U-net architecture, PyTorch, augmentation techniques, 3D Computer vision, deep learning*
 
 ### **[Distribution of Players by LCS Wins - League of Legends](https://www.kaggle.com/code/mohamedahmedx2/players-by-lcs-wins-league-of-legends):**
