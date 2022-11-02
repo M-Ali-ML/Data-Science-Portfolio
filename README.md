@@ -1,5 +1,5 @@
 # M. A. Ali Data Science Portfolio 
-[Resume](Docs\CV-ds-Mohamed-Ahmed.pdf) | [Linkedin](https://www.linkedin.com/in/mohamedahmedx2) | [Kaggle](https://www.kaggle.com/mohamedahmedx2) | [Behance](https://www.behance.net/MightyHammer)
+[Resume](/Docs/CV-ds-Mohamed-Ahmed.pdf) | [Linkedin](https://www.linkedin.com/in/mohamedahmedx2) | [Kaggle](https://www.kaggle.com/mohamedahmedx2) | [Behance](https://www.behance.net/MightyHammer)
 ## Data Science Projects:
 
 ### **[American Express Credit Card Default (Churn) Prediction](https://www.kaggle.com/code/mohamedahmedx2/amex-clear-concise-eda-xgboost):**
