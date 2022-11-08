@@ -15,7 +15,7 @@
  - **Skills:** *web scrapping, data manipulation, data visualization, hypothesis testing, statistical analysis*
 
 ### **[Melanoma (Skin Cancer) Classification Using TensorFlow](https://www.kaggle.com/code/mohamedahmedx2/detecting-cancer-lesion?scriptVersionId=105356672):**
-- Melanoma is a deadly disease, but if caught early, most melanomas can be cured with minor surgery. Image analysis tools that automate the diagnosis of melanoma will improve dermatologists' diagnostic accuracy. Better detection of melanoma has the opportunity to positively impact millions of people.
+- Melanoma is a deadly disease, but if caught early, it can be cured with minor surgery. Image analysis tools that automate the diagnosis of melanoma will improve dermatologists' diagnostic accuracy. Better detection of melanoma has the opportunity to positively impact millions of people.
  - **Skills:** *Computer Vision, AI in Healthcare, TensorFlow, Binary Classification, stratifiedkfold, efficientnet*
 
 ### **[Neural Style Transfer](https://www.kaggle.com/code/mohamedahmedx2/using-ai-to-create-art-neural-style-transfer):**
