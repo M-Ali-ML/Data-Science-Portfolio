@@ -6,7 +6,7 @@
 
 ### **[Data Analysis System for the High School Final Exams in Egypt](https://github.com/MightyStud/High-School-Data-Analysis-Streamlit-App)**
 
-* Last year of High school in Egypt educational (Thanaweya Amma) system is a detrimental for students aiming for the best of the best universities to attend. Since the score in this single year is the entry card to those universities. A Web-Application that suggest the best schools based on school average per disctrict and a complete analysis of subjects, will provide guidance in that case.
+* Last year of High school in Egypt educational [Thanaweya Amma](https://en.wikipedia.org/wiki/Thanaweya_Amma) system is a detrimental for students aiming for the best of the best universities to attend. Since the score in this single year is the entry card to those universities. A Web-Application that suggest the best schools based on school average per disctrict and a complete analysis of subjects, will provide guidance in that case.
 
 * **Skills:** *Web scraping, Asyncio, tableau, Streamlit, API, Data Analysis, Visualization*
 
