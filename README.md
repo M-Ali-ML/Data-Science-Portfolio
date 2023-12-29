@@ -1,6 +1,6 @@
 # M. A. Ali Data Science Portfolio
 
-[Resume](/Docs/1CV%20-%20Mohamed%20Ahmed%20Ali.pdf) | [Linkedin](https://www.linkedin.com/in/mohamedahmedx2) | [Kaggle](https://www.kaggle.com/mohamedahmedx2) | [Behance](https://www.behance.net/MightyHammer)
+[Resume](/Docs/CV_MA_DEC.pdf) | [Linkedin](https://www.linkedin.com/in/mohamedahmedx2) | [Kaggle](https://www.kaggle.com/mohamedahmedx2) | [Behance](https://www.behance.net/MightyHammer)
 
 ## Data Science Projects
 
